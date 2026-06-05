@@ -107,7 +107,7 @@ DeviceProcessEvents
 ---
 
 ## Phase 5: Incident Response Playbook
-In a scenario where Automated Investigation is disabled or restricted to "Semi-Approval,"  I will execute manual containment. 
+In a scenario where Automated Investigation is disabled,  I will execute manual containment. 
 
 **Manual IR Execution Steps:**
 1. **Containment:** Execute "Isolate Device" via the Defender portal to sever network connections while maintaining the MDE management channel.
